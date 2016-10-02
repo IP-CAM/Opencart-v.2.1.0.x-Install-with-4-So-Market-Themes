@@ -1,0 +1,259 @@
+.so-deal .intro_text,
+.so-deal .footer_text {
+	margin: 10px 0px;
+}
+.so-deal .product-thumb .caption{
+	margin-bottom:90px;
+	position:relative;
+}
+.so-deal .product-thumb{
+	margin: 20px 0;
+}
+.postext-spextraslider {
+	margin-top: 10px;
+}
+
+.pretext-spextraslider {
+	margin-bottom: 10px;
+}
+
+.so-deal {
+	margin: 20px 0;
+}
+
+.page-title-extraslider {
+	color: #2E2C2D;
+	text-transform: uppercase;
+	font-size: 13px;
+	font-weight: bold;
+	overflow: hidden;
+	width: 75%;
+	margin: 10px 0 8px 0px;
+}
+
+.so-deal a {
+	text-decoration: none;
+}
+
+.so-deal.preload {
+	height: 250px;
+	overflow: hidden;
+	position: relative
+}
+
+.so-deal .extra-loading {
+	background: url('../img/loading.gif') no-repeat scroll center center transparent;
+	height: 250px;
+	width: 100%;
+}
+
+.so-deal.preload .heading-title,
+.so-deal.preload .owl-controls,
+.so-deal.preload .owl-controls,
+.so-deal.preload .extraslider-inner {
+	display: none !important;
+}
+
+.so-deal .pre-text,
+.so-deal .post-text {
+	margin: 10px 0;
+}
+
+.so-deal .heading-title {
+	text-transform: uppercase;
+	font-weight: bold;
+	float: left;
+	margin-bottom: 10px;
+}
+
+.so-deal .extraslider-inner {
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+	border-bottom: 1px dotted #000000;
+	border-top: 1px dotted #000000;
+	padding-bottom: 8px;
+}
+
+.so-deal .item {
+	position: relative;
+	display: block;
+}
+
+.so-deal .owl-item {
+	float: left;
+}
+
+.so-deal .owl-controls {
+	margin-bottom: 8px;
+	text-align: right;
+	float: right;
+	vertical-align: middle;
+	display: inline;
+}
+
+.so-deal .owl-controls .owl-controls {
+	float: left;
+	margin: 0;
+}
+
+.so-deal .owl-controls .owl-prev,
+.so-deal .owl-controls .owl-next {
+	float: left;
+	outline: none;
+	font-size: 22px;
+	line-height: 18px;
+	color: #797575;
+	cursor: pointer;
+	filter: Alpha(Opacity=50);
+	opacity: 0.5;
+	font-family: Arial;
+	height: 20px;
+	vertical-align: middle;
+}
+
+.so-deal .owl-controls .owl-dots .owl-dot {
+	display: inline-block;
+	zoom: 1;
+}
+
+.so-deal .owl-dots .owl-dot {
+	display: block;
+	width: 12px;
+	height: 12px;
+	margin: 4px;
+	filter: Alpha(Opacity=50);
+	opacity: 0.5;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
+	background: #797575;
+	cursor: pointer;
+	vertical-align: middle;
+}
+
+.so-deal .owl-dots .owl-dot:hover {
+	filter: Alpha(Opacity=100);
+	opacity: 1;
+	background: #77f9f1;
+}
+
+.so-deal.button-type2 .owl-controls{
+	width: 100%;
+}
+
+.so-deal.button-type2 .owl-nav{
+	float: right;
+	text-align: right;
+	margin-bottom: 8px;
+}
+
+.so-deal.button-type1 .owl-dots{
+	float: left;
+}
+
+.so-deal.button-type2 .owl-dots{
+	text-align: center;
+	margin-top: 10px;
+	display: block;
+}
+
+.so-deal .owl-dots .owl-dot.active {
+	filter: Alpha(Opacity=100);
+	opacity: 1;
+	background: #77f9f1;
+}
+
+.so-deal .owl-dots .owl-dot:focus,
+.so-deal .owl-nav .owl-prev:focus,
+.so-deal .owl-nav .owl-next:focus {
+	outline: none;
+}
+
+.so-deal.button-type2  .owl-dots {
+	text-align: center;
+	margin-top: 10px;
+	display: block;
+}
+
+.so-deal.button-type2 .owl-prev,
+.so-deal.button-type2 .owl-next {
+	background: none repeat scroll 0 0 #797575;
+	border-radius: 50%;
+	color: #FFF;
+	cursor: pointer;
+	float: left;
+	font-family: Arial;
+	font-size: 20px;
+	font-weight: 600;
+	height: 20px;
+	line-height: 18px;
+	margin: 0 0 0 4px;
+	opacity: 0.5;
+	outline: medium none;
+	text-align: center;
+	vertical-align: middle;
+	width: 20px;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+}
+
+.so-deal .owl-controls .owl-prev:hover,
+.so-deal .owl-controls .owl-next:hover {
+	color: #77f9f1;
+	filter: Alpha(Opacity=100);
+	opacity: 1;
+}
+.so-deal .item-time {
+    position: absolute;
+    bottom: -85px;
+    left: 5px;
+    right: 5px;
+    background-color: #f13340;
+
+}
+
+.so-deal .item-timer {
+    background-color: #eee;
+}
+
+.so-deal .item-timer .time-item {
+    float: left;
+    width: 25%;
+    background: none repeat scroll 0 0 #eee;
+    border-bottom: 1px solid #fff;
+    float: left;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 40px;
+    text-align: center;
+    width: 25%;
+}
+
+.so-deal .num-time {
+    border-bottom: 2px solid #FFF;
+}
+
+.so-deal .name-time {
+    font-size: 12px;
+    font-weight: 300;
+}
+
+.lang_ar .owl-controls{
+	float: left;
+}
+
+.lang_ar .owl-controls .owl-next{
+	right: 0;
+}
+
+.lang_ar .owl-controls .owl-prev{
+	right: 20px;
+	float: right;
+}
+
+.lang_ar .owl-carousel .owl-stage {
+	float: left;
+}
+

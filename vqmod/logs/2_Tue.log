@@ -1,0 +1,13 @@
+---------- Date: 2015-10-27 04:07:57 ~ IP : ::1 ----------
+REQUEST URI : /ytc_templates/opencart/so_market/
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\ytc_templates\opencart\so_market\vqmod/xml/cookie_low.xml
+   id        : EU Cookie Law - top, bottom, floating
+   version   : 
+   vqmver    : 2.X
+   author    : arveo
+VQModObject::parseMods - Could not resolve path for [admin/language/hungarian/setting/setting.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+

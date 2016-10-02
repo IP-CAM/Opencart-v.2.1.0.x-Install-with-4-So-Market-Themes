@@ -1,0 +1,13 @@
+/*----------------------------------
+*  -----------Target IE 9 and HIGHER -----------------
+*---------------------------*/
+@import "color/theme_variables";
+
+
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+    .slider-clients-say .owl2-stage-outer{margin: 0 -1px;}
+    .owl2-carousel#thumb-slider .owl2-stage-outer{margin: 0 -1px;}
+    .left-content-product .content-product-left .full_slider .thumbnail,
+    .left-content-product .content-product-left .not_full_slider .thumbnail{transform: translate3d(0px, 0px, 0px); -moz-transform: translate3d(0px, 0px, 0px);}
+    
+}

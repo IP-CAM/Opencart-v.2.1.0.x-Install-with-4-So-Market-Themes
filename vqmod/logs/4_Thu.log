@@ -1,0 +1,42 @@
+---------- Date: 2015-12-24 09:14:24 ~ IP : ::1 ----------
+REQUEST URI : /opencart/2015/update/so_market/
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\opencart\2015\update\so_market\vqmod/xml/cookie_low.xml
+   id        : EU Cookie Law - top, bottom, floating
+   version   : 
+   vqmver    : 2.X
+   author    : arveo
+VQModObject::parseMods - Could not resolve path for [catalog/language/hungarian/common/footer.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/hungarian/setting/setting.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-12-24 10:40:09 ~ IP : ::1 ----------
+REQUEST URI : /opencart/2015/update/so_market/layout3/
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\opencart\2015\update\so_market\vqmod/xml/cookie_low.xml
+   id        : EU Cookie Law - top, bottom, floating
+   version   : 
+   vqmver    : 2.X
+   author    : arveo
+VQModObject::parseMods - Could not resolve path for [catalog/language/hungarian/common/footer.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/hungarian/setting/setting.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-12-24 11:30:21 ~ IP : ::1 ----------
+REQUEST URI : /opencart/2015/update/so_market/layout4/index.php?route=product/compare
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\opencart\2015\update\so_market\vqmod/xml/cookie_low.xml
+   id        : EU Cookie Law - top, bottom, floating
+   version   : 
+   vqmver    : 2.X
+   author    : arveo
+VQModObject::parseMods - Could not resolve path for [catalog/language/hungarian/common/footer.php] (SKIPPED)
+VQModObject::parseMods - Could not resolve path for [admin/language/hungarian/setting/setting.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+

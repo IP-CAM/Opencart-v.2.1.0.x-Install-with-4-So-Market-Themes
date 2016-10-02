@@ -1,0 +1,39 @@
+---------- Date: 2015-09-28 09:19:24 ~ IP : ::1 ----------
+REQUEST URI : /ytc_templates/opencart/so_market/admin/index.php?route=setting/setting&token=52c69395a5fc3472150154d627261029
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\ytc_templates\opencart\so_market\vqmod/xml/cookie_low.xml
+   id        : EU Cookie Law - top, bottom, floating
+   version   : 
+   vqmver    : 2.X
+   author    : arveo
+VQModObject::parseMods - Could not resolve path for [admin/language/hungarian/setting/setting.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-09-28 09:26:41 ~ IP : ::1 ----------
+REQUEST URI : /ytc_templates/opencart/so_market/
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\ytc_templates\opencart\so_market\vqmod/xml/cookie_low.xml
+   id        : EU Cookie Law - top, bottom, floating
+   version   : 
+   vqmver    : 2.X
+   author    : arveo
+VQModObject::parseMods - Could not resolve path for [admin/language/hungarian/setting/setting.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
+---------- Date: 2015-09-28 09:31:45 ~ IP : ::1 ----------
+REQUEST URI : /ytc_templates/opencart/so_market/
+MOD DETAILS:
+   modFile   : D:\xampp\htdocs\ytc_templates\opencart\so_market\vqmod/xml/cookie_low.xml
+   id        : EU Cookie Law - top, bottom, floating
+   version   : 
+   vqmver    : 2.X
+   author    : arveo
+VQModObject::parseMods - Could not resolve path for [admin/language/hungarian/setting/setting.php] (SKIPPED)
+
+----------------------------------------------------------------------
+
+
